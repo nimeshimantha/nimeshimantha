@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/nxmeshimantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nxmeshimantha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nimeshimantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimeshimantha" height="30" width="40" /></a>
-<a href="https://fb.com/nimeshiamntha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimeshiamntha" height="30" width="40" /></a>
 <a href="https://instagram.com/nimesh__imantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimesh__imantha" height="30" width="40" /></a>
 </p>
 
@@ -25,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimeshimantha&show_icons=true&locale=en" alt="nimeshimantha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshimantha&" alt="nimeshimantha" /></p>
+
