@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimesh Imantha</h1>
-<h3 align="center">I'm undergraduate Software Engineering Student.</h3>
+<h3 align="center">Undergraduate Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshimantha&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshimantha" /> </p>
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimeshimantha&show_icons=true&locale=en" alt="nimeshimantha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshimantha&" alt="nimeshimantha" /></p>
-
