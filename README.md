@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimesh Imantha</h1>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Undergraduate Software Engineer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimeshimantha&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshimantha" /> </p>
