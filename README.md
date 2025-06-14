@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bsse231022@bci.lk**
 
-- ⚡ Fun fact **Call me as PODDA**
+- ⚡ Fun fact **Call me as PODDA** 
 
 
 
