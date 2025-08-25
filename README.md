@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimeshimantha" alt="nimeshimantha" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **bsse231022@bci.lk**
 
